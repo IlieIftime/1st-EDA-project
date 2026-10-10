@@ -68,8 +68,8 @@ The dataset was split into an 80/20 ratio for training and testing.
 
 ### 5.1 Linear Regression
 A Linear Regression model was trained to predict the continuous `total_bruto` variable based on discount, rating, and bags.
-*   **Training Performance:** MAE: [Insert Value], MSE: 118.25, R²: 0.77
-*   **Testing Performance:** MAE: [Insert Value], MSE: 131.45, R²: 0.77
+*   **Training Performance:**: [Insert Value], MSE: 118.25, R²: 0.77
+*   **Testing Performance:**: [Insert Value], MSE: 131.45, R²: 0.77
 *   **Analysis:** The model demonstrated a reasonable predictive capability (77% accuracy). However, the scatter plot of Predictions vs. Real Values indicated difficulties in accurately predicting extreme or anomalous values.
 
 ### 5.2 Logistic Regression
